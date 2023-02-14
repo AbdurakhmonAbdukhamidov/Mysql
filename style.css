@@ -1,0 +1,23 @@
+form{
+    width: 40%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.reg{
+    width: 40%;
+    height: 40%;
+    background: yellow;
+    display: flex;
+    flex-direction: column;
+    padding: 10%;
+    margin: auto;
+    line-height: 10px;
+}
